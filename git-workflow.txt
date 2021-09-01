@@ -3,3 +3,4 @@ Done in feauture branch
 Done with release branch
 Done with hotfix branch
 Second feature branch changes
+Done with release branch 0.2.0
