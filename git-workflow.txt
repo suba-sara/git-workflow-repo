@@ -1,1 +1,2 @@
-This is an use case of git workflow
+This is an use case of git workflow.
+Done in feauture branch
